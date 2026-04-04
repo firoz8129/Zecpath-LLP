@@ -1,6 +1,6 @@
 # Zecpath AI System
 
-## Project Overview
+## Project Overview.
 This project is an AI-powered hiring system that automates resume screening, candidate evaluation, and hiring decisions.
 
 ---
